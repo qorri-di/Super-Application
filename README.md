@@ -1,1 +1,1 @@
-# super-application
+# Super Application
